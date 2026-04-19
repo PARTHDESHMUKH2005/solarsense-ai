@@ -758,7 +758,7 @@ Phase 4 — Intelligent Automation
 | Member | Role |
 |:---:|:---:|
 | **Keha** | Team Member |
-| **Parth Deshmukh** | Team Member |
+| **Parth** | Team Member |
 | **Arnav** | Team Member |
 | **Lalit** | Team Member |
 
